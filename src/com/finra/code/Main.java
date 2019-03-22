@@ -1,7 +1,5 @@
 package com.finra.code;
 
-import static org.junit.Assert.assertThat;
-
 import java.util.Arrays;
 import java.util.List;
 import java.util.stream.Collectors;
@@ -17,12 +15,6 @@ public class Main {
 	 * to remove all the names named “Ahmed”
 	 * 
 	 * Given a list of integers 1,2,3,4,5,6,7 etc. remove all values greater than 100
-	 * 
-	 * ========
-	 * Test Mentality
-	 * ========
-	 * Ask candidate to come up with +ve , -ve and edge condition test scenarios for
-	 * the above java method
 	 * 
 	 */
 		
